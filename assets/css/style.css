@@ -5,3 +5,16 @@ body {
 .bg-calip1 {
     background-color: #249ca8;
 }
+
+main {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+i {
+    color: white;
+    background-color: #249ca8;
+}
