@@ -4,8 +4,5 @@ const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]
 const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
 
 $(document).ready(function () {
-    let nombrejq = $("#nombre")
-    let asuntojq = $("#asunto")
-    let mensajejq = $("#mensaje")
 
 })
