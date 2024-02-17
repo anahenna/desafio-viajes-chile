@@ -1,8 +1,7 @@
 body {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
-.navbar-brand {
-    color: white;
-    text-align: end;
+.bg-calip1 {
+    background-color: #249ca8;
 }
