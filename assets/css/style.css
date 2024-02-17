@@ -18,3 +18,27 @@ i {
     color: white;
     background-color: #249ca8;
 }
+
+#destacados {
+    background-color: black;
+}
+
+#cardsection {
+    background-color: black;
+}
+
+#cardbody {
+    background-color: #249ca8;
+}
+
+#contacto {
+    background-color: black;
+}
+
+form {
+    background-color: black;
+}
+
+footer {
+    background-color: #249ca8;
+}
